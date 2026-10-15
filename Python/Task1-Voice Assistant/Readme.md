@@ -57,11 +57,11 @@ Your actual project may contain additional Python files or folders.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/FarazMemon004/OIBSIP/tree/main/Python/Task1-Voice%20Assistant
 cd OIBSIP-Python-Task1-Voice-Assistant
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository's actual URL.
+Replace `https://github.com/FarazMemon004/OIBSIP/tree/main/Python/Task1-Voice%20Assistant` with your repository's actual URL.
 
 ### 2. Create a virtual environment
 
