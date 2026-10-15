@@ -76,11 +76,11 @@ Tkinter and SQLite3 are included with many Python installations. Their availabil
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BMI-Calculator.git
+git clone https://github.com/FarazMemon004/OIBSIP/tree/main/Python/Task2-BMICalculator
 cd BMI-Calculator
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `https://github.com/FarazMemon004/OIBSIP/tree/main/Python/Task2-BMICalculator` with your GitHub username.
 
 ### 2. Create a Virtual Environment
 
