@@ -69,15 +69,15 @@ Technologies: Python, Tkinter, "secrets", "pyperclip"
 OIBSIP/
 ├── README.md
 └── Python/
-    ├── Task1-Voice Assistant/
-    │   ├── main.py
-    │   └── ...
-    ├── Task2-BMICalculator/
-    │   ├── main.py
-    │   └── ...
-    └── Task3-RandomPasswordGenerator/
-        ├── main.py
-        └── ...
+├── Task1-Voice Assistant/
+│   ├── main.py
+│   └── ...
+├── Task2-BMICalculator/
+│   ├── main.py
+│   └── ...
+└── Task3-RandomPasswordGenerator/
+├── main.py
+└── ...
 
 The directory and file names above are examples. Adjust them to match your actual repository.
 
