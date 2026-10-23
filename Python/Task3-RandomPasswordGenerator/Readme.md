@@ -134,6 +134,7 @@ The objective is to practice Python programming, secure random generation, GUI d
 Muhammad Faraz
 
 GitHub: [FarazMemon004](https://github.com/FarazMemon004)
+
 [Muhammad Faraz Memon](https://www.linkedin.com/in/muhammad-faraz-memon-92582a43a/)
 
 
