@@ -80,7 +80,6 @@ git clone https://github.com/FarazMemon004/OIBSIP/tree/main/Python/Task2-BMICalc
 cd BMI-Calculator
 ```
 
-Replace `https://github.com/FarazMemon004/OIBSIP/tree/main/Python/Task2-BMICalculator` with your GitHub username.
 
 ### 2. Create a Virtual Environment
 
