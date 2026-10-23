@@ -135,7 +135,7 @@ Muhammad Faraz
 
 GitHub: [FarazMemon004](https://github.com/FarazMemon004)
 
-[Muhammad Faraz Memon](https://www.linkedin.com/in/muhammad-faraz-memon-92582a43a/)
+LinkedIn: [Muhammad Faraz Memon](https://www.linkedin.com/in/muhammad-faraz-memon-92582a43a/)
 
 
 ---
