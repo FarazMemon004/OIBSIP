@@ -41,7 +41,7 @@ Tkinter is included with many Python installations. Availability depends on how 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/OIBSIP-Python-Task3-Password-Generator.git
+git clone https://github.com/FarazMemon004/OIBSIP/tree/main/Python/Task3-RandomPasswordGenerator
 ```
 
 ### 2. Navigate to the Project Directory
@@ -133,7 +133,9 @@ The objective is to practice Python programming, secure random generation, GUI d
 
 Muhammad Faraz
 
-GitHub: https://github.com/FarazMemon004
+GitHub: [FarazMemon004](https://github.com/FarazMemon004)
+[Muhammad Faraz Memon](https://www.linkedin.com/in/muhammad-faraz-memon-92582a43a/)
+
 
 ---
 
