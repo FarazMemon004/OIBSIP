@@ -61,7 +61,6 @@ git clone https://github.com/FarazMemon004/OIBSIP/tree/main/Python/Task1-Voice%2
 cd OIBSIP-Python-Task1-Voice-Assistant
 ```
 
-Replace `https://github.com/FarazMemon004/OIBSIP/tree/main/Python/Task1-Voice%20Assistant` with your repository's actual URL.
 
 ### 2. Create a virtual environment
 
