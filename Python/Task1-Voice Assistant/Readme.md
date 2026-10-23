@@ -186,6 +186,11 @@ This project demonstrates practical experience with Python programming, voice in
 
 Software Engineering | Python Development | AI Projects
 
+LinkedIn: [Muhammad Faraz Memon](https://www.linkedin.com/in/muhammad-faraz-memon-92582a43a/)
+
+Github: [FarazMemon004](https://github.com/FarazMemon004)
+
+
 ## 📄 License
 
 This project is intended for educational and learning purposes. Add a license file if you want to specify the terms under which others may use or modify the code.
