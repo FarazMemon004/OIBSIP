@@ -124,8 +124,10 @@ Through these projects, I practiced:
 
 Muhammad Faraz
 
-- GitHub: "FarazMemon004" (https://github.com/FarazMemon004)
-- LinkedIn: "Muhammad Faraz" (https://www.linkedin.com/in/muhammad-faraz-memon-92582a43a/)
+LinkedIn: [Muhammad Faraz Memon](https://www.linkedin.com/in/muhammad-faraz-memon-92582a43a/)
+
+Github: [FarazMemon004](https://github.com/FarazMemon004)
+
 
 🙏 Acknowledgment
 
